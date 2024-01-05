@@ -1,0 +1,12 @@
+/Users/zemld/Projects/HSE/HCW22/FileWorks/bin/Debug/net6.0/FileWorks.deps.json
+/Users/zemld/Projects/HSE/HCW22/FileWorks/bin/Debug/net6.0/FileWorks.dll
+/Users/zemld/Projects/HSE/HCW22/FileWorks/bin/Debug/net6.0/FileWorks.pdb
+/Users/zemld/Projects/HSE/HCW22/FileWorks/obj/Debug/net6.0/FileWorks.csproj.AssemblyReference.cache
+/Users/zemld/Projects/HSE/HCW22/FileWorks/obj/Debug/net6.0/FileWorks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zemld/Projects/HSE/HCW22/FileWorks/obj/Debug/net6.0/FileWorks.AssemblyInfoInputs.cache
+/Users/zemld/Projects/HSE/HCW22/FileWorks/obj/Debug/net6.0/FileWorks.AssemblyInfo.cs
+/Users/zemld/Projects/HSE/HCW22/FileWorks/obj/Debug/net6.0/FileWorks.csproj.CoreCompileInputs.cache
+/Users/zemld/Projects/HSE/HCW22/FileWorks/obj/Debug/net6.0/FileWorks.dll
+/Users/zemld/Projects/HSE/HCW22/FileWorks/obj/Debug/net6.0/refint/FileWorks.dll
+/Users/zemld/Projects/HSE/HCW22/FileWorks/obj/Debug/net6.0/FileWorks.pdb
+/Users/zemld/Projects/HSE/HCW22/FileWorks/obj/Debug/net6.0/ref/FileWorks.dll

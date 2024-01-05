@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCW22", "HCW22\HCW22.csproj", "{0433D1C2-A4D0-4480-A53E-4319F31ABD9E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F57434C2-1B23-4E3C-AF52-96983EA289C6} = {F57434C2-1B23-4E3C-AF52-96983EA289C6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharArrayLib", "CharArrayLib\CharArrayLib.csproj", "{DA28C3C3-F4DF-46A7-BF6A-AB0880451106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileWorks", "FileWorks\FileWorks.csproj", "{F57434C2-1B23-4E3C-AF52-96983EA289C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0433D1C2-A4D0-4480-A53E-4319F31ABD9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0433D1C2-A4D0-4480-A53E-4319F31ABD9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0433D1C2-A4D0-4480-A53E-4319F31ABD9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0433D1C2-A4D0-4480-A53E-4319F31ABD9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA28C3C3-F4DF-46A7-BF6A-AB0880451106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA28C3C3-F4DF-46A7-BF6A-AB0880451106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA28C3C3-F4DF-46A7-BF6A-AB0880451106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA28C3C3-F4DF-46A7-BF6A-AB0880451106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F57434C2-1B23-4E3C-AF52-96983EA289C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F57434C2-1B23-4E3C-AF52-96983EA289C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F57434C2-1B23-4E3C-AF52-96983EA289C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F57434C2-1B23-4E3C-AF52-96983EA289C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

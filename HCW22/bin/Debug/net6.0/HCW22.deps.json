@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HCW22/1.0.0": {
+        "dependencies": {
+          "CharArrayLib": "1.0.0",
+          "FileWorks": "1.0.0"
+        },
+        "runtime": {
+          "HCW22.dll": {}
+        }
+      },
+      "CharArrayLib/1.0.0": {
+        "runtime": {
+          "CharArrayLib.dll": {}
+        }
+      },
+      "FileWorks/1.0.0": {
+        "runtime": {
+          "FileWorks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HCW22/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CharArrayLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FileWorks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
